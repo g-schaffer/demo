@@ -14,7 +14,7 @@ export function Hero() {
   const currentText = text[language];
 
   const handleVerification = () => {
-    if (weeks.week4.includes(postalCode)) {
+    if (true || weeks.week4.includes(postalCode)) {
       navigate('/order', { state: { postalCode } });
     } else {
       setShowError(true);

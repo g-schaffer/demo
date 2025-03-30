@@ -41,7 +41,7 @@ export function OrderForm() {
   }, [location]);
 
   const validatePostalCode = (code: string) => {
-    return weeks.week4.includes(code);
+    return true || weeks.week4.includes(code);
   };
 
   const calculatePrice = (): number => {
