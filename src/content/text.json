@@ -1,0 +1,486 @@
+{
+  "fr": {
+    "global": {
+      "companyName": "Company Name",
+      "phone": "+32 XX XX XX XX",
+      "email": "contact@company.be",
+      "address": {
+        "street": "Rue Example 123",
+        "city": "Bruxelles",
+        "postalCode": "1000"
+      }
+    },
+    "navigation": {
+      "menuItems": [
+        "Accueil",
+        "Notre service",
+        "Comment ça marche",
+        "Nos tarifs",
+        "FAQ ?",
+        "Contact"
+      ],
+      "ctaButton": "Commander"
+    },
+    "hero": {
+      "title": "Nettoyage écologique de vos conteneurs",
+      "priceTag": {
+        "prefix": "à partir de",
+        "amount": "6€",
+        "suffix": "/mois"
+      },
+      "form": {
+        "title": "Réservez vos nettoyages",
+        "placeholder": "Entrez votre code postal ici",
+        "errorMessage": "Désolé, nous ne desservons pas encore votre région.",
+        "button": "Vérifier"
+      }
+    },
+    "services": {
+      "title": "Nos Services",
+      "items": [
+        {
+          "title": "Nettoyage en profondeur avec de l'eau chaude",
+          "description": "L'eau chaude que nous utilisons permet de dissoudre efficacement les graisses et les débris alimentaires, éliminant ainsi les bactéries et réduisant considérablement les odeurs désagréables."
+        },
+        {
+          "title": "Élimination des asticots et des bactéries",
+          "description": "Saviez-vous que les poubelles sales favorisent la prolifération de la Salmonelle, Listeria et E.Coli ? Notre service élimine asticots et bactéries, garantissant hygiène et sécurité pour votre foyer"
+        },
+        {
+          "title": "Désodorisation à base d'huiles essentielles",
+          "description": "Optez pour une fraîcheur naturelle avec notre désodorisation maison à base d'huiles essentielles. Éliminez les mauvaises odeurs tout en respectant l'environnement, pour un résultat sain et agréable."
+        },
+        {
+          "title": "Recyclage des eaux usées",
+          "description": "L'eau utilisée pour le nettoyage de vos conteneurs est directement recyclée via un système embarqué dans nos véhicules. Ceci nous permet d'utiliser moins d'eau tout en conservant sa propreté."
+        }
+      ]
+    },
+    "about": {
+      "title": "Autonome en Eau & Éco-Responsable",
+      "description": [
+        "Grâce à notre camionnette spécialement équipée, nous sommes 100% autonomes en eau.",
+        "Notre cuve à eau intégrée, combinée à un système de filtration avancé, nous permet un nettoyage efficace de vos poubelles et de recyclage immédiat de l'eau utilisée."
+      ]
+    },
+    "process": {
+      "steps": [
+        {
+          "title": "Étape 1",
+          "description": "Le jour de collecte des déchets, vous déposez vos conteneurs à la rue, comme d'habitude."
+        },
+        {
+          "title": "Étape 2",
+          "description": "Ecobac passe au plus vite pour nettoyer, désinfecter et désodoriser vos conteneurs"
+        },
+        {
+          "title": "Étape 3",
+          "description": "Vous récupérez vos conteneurs étincelants, sans avoir fait le moindre effort"
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Calculez votre tarif",
+      "steps": {
+        "plan": {
+          "title": "Choisissez votre formule",
+          "options": [
+            "Mensuel",
+            "Annuel",
+            "Unique"
+          ]
+        },
+        "frequency": {
+          "title": "Choisissez la fréquence",
+          "options": [
+            "1 fois/mois",
+            "1 fois/2 mois"
+          ]
+        },
+        "containers": {
+          "title": "Nombre de conteneurs",
+          "options": [
+            "1 bac",
+            "2 bacs",
+            "3 bacs"
+          ]
+        }
+      },
+      "ctaButton": "Réserver"
+    },
+    "faq": {
+      "title": "Questions Fréquentes",
+      "questions": [
+        {
+          "question": "Comment identifiez-vous les conteneurs à nettoyer ?",
+          "answer": "Lors du premier nettoyage, nous identifions votre conteneur avec l'adresse reprise sur l'étiquette qui se trouve par défaut, sur un de ses côtés. Si cette étiquette est manquante, nous vous demanderons de coller un élément nous permettant de l'identifier à la première visite. Nous lui apposerons ensuite un autocollant afin de l'identifier facilement les fois suivantes."
+        },
+        {
+          "question": "Quand les nettoyages ont-ils lieu ?",
+          "answer": "Nous visons à réaliser le nettoyage le jour de la collecte des déchets, mais il peut arriver que nous devions choisir un autre jour. Quelle que soit la situation, nous vous tiendrons toujours informé à l'avance."
+        },
+        {
+          "question": "Que se passe-t-il si les conteneurs ne sont pas complètement vidés ?",
+          "answer": "Notre système équipé de 6 filtres nous permet de traiter et réutiliser l'eau en circuit fermé. Le premier filtre capte les débris plus importants restant dans le conteneur, que nous éliminons ensuite de manière sécurisée à notre dépôt."
+        },
+        {
+          "question": "Le nettoyage inclut-il une désodorisation ?",
+          "answer": "Oui, chaque nettoyage est suivi d'une désodorisation à base d'huiles essentielles. Votre conteneur ne sera pas seulement propre, mais laissera également une agréable fraîcheur."
+        },
+        {
+          "question": "Que se passe-t-il en cas de mauvais temps le jour prévu ?",
+          "answer": "Nous nettoyons par tous les temps ! Cependant, en cas de conditions extrêmes compromettant la qualité du nettoyage ou la sécurité, nous reprogrammerons le service au plus tôt et vous en informerons."
+        },
+        {
+          "question": "Quand recevrai-je les dates de nettoyage ?",
+          "answer": "Vous recevrez la date de votre premier nettoyage et le calendrier des séances suivantes peu après votre réservation. Restez à l'affût de nos communications par email ou SMS."
+        },
+        {
+          "question": "Le tarif est-il le même pour tous les conteneurs ?",
+          "answer": "Oui, nous proposons un tarif unique pour tous les conteneurs jusqu'à 240 litres. Profitez de notre service de qualité, quelle que soit la taille de votre poubelle."
+        },
+        {
+          "question": "Comment puis-je régler mon abonnement ?",
+          "answer": "Les paiements peuvent être effectués en ligne via notre site sécurisé. Grâce à notre partenaire de paiement Stripe, nous acceptons les principales cartes de crédit, Bancontact et les paiements SEPA. Vous avez la possibilité de choisir entre un paiement mensuel ou annuel selon votre convenance."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "subtitle": "Informations de contact",
+      "description": "N'hésitez pas à nous contacter pour toute question ou demande de devis. Notre équipe est là pour vous répondre.",
+      "form": {
+        "fields": {
+          "name": "Nom complet",
+          "email": "Email",
+          "phone": "Téléphone",
+          "message": "Message"
+        },
+        "submitButton": "Envoyer"
+      }
+    },
+    "footer": {
+      "description": "Service professionnel de nettoyage de conteneurs à déchets. Écologique et efficace.",
+      "sections": {
+        "contact": "Contact",
+        "quickLinks": "Liens rapides",
+        "social": "Suivez-nous"
+      },
+      "copyright": "Tous droits réservés."
+    },
+    "orderForm": {
+      "steps": {
+        "postalCode": {
+          "title": "Entrez votre code postal",
+          "placeholder": "Code postal",
+          "errorMessage": "Désolé, nous ne desservons pas encore votre région."
+        },
+        "frequency": {
+          "title": "Choisissez votre fréquence",
+          "options": [
+            {
+              "value": "monthly",
+              "label": "Une fois par mois"
+            },
+            {
+              "value": "bimonthly",
+              "label": "Tous les 2 mois"
+            },
+            {
+              "value": "once",
+              "label": "Nettoyage unique"
+            }
+          ]
+        },
+        "containers": {
+          "title": "Nombre de conteneurs",
+          "options": [
+            {
+              "value": "1",
+              "label": "Un conteneur"
+            },
+            {
+              "value": "2",
+              "label": "Deux conteneurs"
+            },
+            {
+              "value": "3",
+              "label": "Trois conteneurs"
+            }
+          ]
+        },
+        "payment": {
+          "title": "Type de paiement",
+          "options": [
+            {
+              "value": "monthly",
+              "label": "Mensuel"
+            },
+            {
+              "value": "annual",
+              "label": "Annuel"
+            }
+          ]
+        }
+      },
+      "navigation": {
+        "back": "Retour",
+        "next": "Suivant",
+        "verify": "Vérifier"
+      },
+      "summary": {
+        "title": "Résumé de votre commande",
+        "fields": {
+          "postalCode": "Code postal",
+          "frequency": "Fréquence",
+          "containers": "Nombre de conteneurs",
+          "paymentType": "Type de paiement",
+          "price": "Prix"
+        },
+        "confirmButton": "Confirmer la commande"
+      }
+    }
+  },
+  "en": {
+    "global": {
+      "companyName": "Company Name",
+      "phone": "+32 XX XX XX XX",
+      "email": "contact@company.be",
+      "address": {
+        "street": "Example Street 123",
+        "city": "Brussels",
+        "postalCode": "1000"
+      }
+    },
+    "navigation": {
+      "menuItems": [
+        "Home",
+        "Our Service",
+        "How it Works",
+        "Pricing",
+        "FAQ",
+        "Contact"
+      ],
+      "ctaButton": "Order Now"
+    },
+    "hero": {
+      "title": "Eco-friendly Container Cleaning",
+      "priceTag": {
+        "prefix": "starting at",
+        "amount": "€6",
+        "suffix": "/month"
+      },
+      "form": {
+        "title": "Book Your Cleaning",
+        "placeholder": "Enter your postal code here",
+        "errorMessage": "Sorry, we don't serve your area yet.",
+        "button": "Check"
+      }
+    },
+    "services": {
+      "title": "Our Services",
+      "items": [
+        {
+          "title": "Deep Cleaning with Hot Water",
+          "description": "The hot water we use effectively dissolves grease and food debris, eliminating bacteria and significantly reducing unpleasant odors."
+        },
+        {
+          "title": "Maggot and Bacteria Elimination",
+          "description": "Did you know that dirty bins promote the growth of Salmonella, Listeria, and E.Coli? Our service eliminates maggots and bacteria, ensuring hygiene and safety for your household."
+        },
+        {
+          "title": "Essential Oil Deodorization",
+          "description": "Choose natural freshness with our homemade essential oil deodorization. Eliminate bad odors while respecting the environment, for a healthy and pleasant result."
+        },
+        {
+          "title": "Wastewater Recycling",
+          "description": "The water used for cleaning your containers is directly recycled through a system built into our vehicles. This allows us to use less water while maintaining its cleanliness."
+        }
+      ]
+    },
+    "about": {
+      "title": "Water Autonomous & Eco-Responsible",
+      "description": [
+        "Thanks to our specially equipped van, we are 100% water autonomous.",
+        "Our integrated water tank, combined with an advanced filtration system, allows us to effectively clean your bins and immediately recycle the water used."
+      ]
+    },
+    "process": {
+      "steps": [
+        {
+          "title": "Step 1",
+          "description": "On waste collection day, you put your containers on the street as usual."
+        },
+        {
+          "title": "Step 2",
+          "description": "Ecobac comes as soon as possible to clean, disinfect, and deodorize your containers."
+        },
+        {
+          "title": "Step 3",
+          "description": "You get your sparkling containers back without having made any effort."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Calculate Your Rate",
+      "steps": {
+        "plan": {
+          "title": "Choose your plan",
+          "options": [
+            "Monthly",
+            "Annual",
+            "One-time"
+          ]
+        },
+        "frequency": {
+          "title": "Choose the frequency",
+          "options": [
+            "Once/month",
+            "Once/2 months"
+          ]
+        },
+        "containers": {
+          "title": "Number of containers",
+          "options": [
+            "1 bin",
+            "2 bins",
+            "3 bins"
+          ]
+        }
+      },
+      "ctaButton": "Book Now"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        {
+          "question": "How do you identify the containers to clean?",
+          "answer": "During the first cleaning, we identify your container with the address on the label that is by default on one of its sides. If this label is missing, we will ask you to attach an element allowing us to identify it at the first visit. We will then apply a sticker to easily identify it for subsequent visits."
+        },
+        {
+          "question": "When do the cleanings take place?",
+          "answer": "We aim to perform the cleaning on waste collection day, but we may need to choose another day. Whatever the situation, we will always keep you informed in advance."
+        },
+        {
+          "question": "What happens if the containers aren't completely empty?",
+          "answer": "Our system equipped with 6 filters allows us to treat and reuse water in a closed circuit. The first filter captures larger debris remaining in the container, which we then safely dispose of at our depot."
+        },
+        {
+          "question": "Does the cleaning include deodorization?",
+          "answer": "Yes, each cleaning is followed by essential oil-based deodorization. Your container will not only be clean but will also leave a pleasant freshness."
+        },
+        {
+          "question": "What happens in case of bad weather on the scheduled day?",
+          "answer": "We clean in all weather conditions! However, in case of extreme conditions compromising cleaning quality or safety, we will reschedule the service as soon as possible and inform you."
+        },
+        {
+          "question": "When will I receive the cleaning dates?",
+          "answer": "You will receive the date of your first cleaning and the schedule for subsequent sessions shortly after your booking. Stay tuned for our communications via email or SMS."
+        },
+        {
+          "question": "Is the rate the same for all containers?",
+          "answer": "Yes, we offer a single rate for all containers up to 240 liters. Enjoy our quality service, regardless of your bin size."
+        },
+        {
+          "question": "How can I pay for my subscription?",
+          "answer": "Payments can be made online through our secure website. Thanks to our payment partner Stripe, we accept major credit cards, Bancontact, and SEPA payments. You can choose between monthly or annual payment according to your convenience."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Contact Information",
+      "description": "Don't hesitate to contact us for any questions or quote requests. Our team is here to help you.",
+      "form": {
+        "fields": {
+          "name": "Full Name",
+          "email": "Email",
+          "phone": "Phone",
+          "message": "Message"
+        },
+        "submitButton": "Send"
+      }
+    },
+    "footer": {
+      "description": "Professional waste container cleaning service. Ecological and efficient.",
+      "sections": {
+        "contact": "Contact",
+        "quickLinks": "Quick Links",
+        "social": "Follow Us"
+      },
+      "copyright": "All rights reserved."
+    },
+    "orderForm": {
+      "steps": {
+        "postalCode": {
+          "title": "Enter your postal code",
+          "placeholder": "Postal code",
+          "errorMessage": "Sorry, we don't serve your area yet."
+        },
+        "frequency": {
+          "title": "Choose your frequency",
+          "options": [
+            {
+              "value": "monthly",
+              "label": "Once per month"
+            },
+            {
+              "value": "bimonthly",
+              "label": "Every 2 months"
+            },
+            {
+              "value": "once",
+              "label": "One-time cleaning"
+            }
+          ]
+        },
+        "containers": {
+          "title": "Number of containers",
+          "options": [
+            {
+              "value": "1",
+              "label": "One container"
+            },
+            {
+              "value": "2",
+              "label": "Two containers"
+            },
+            {
+              "value": "3",
+              "label": "Three containers"
+            }
+          ]
+        },
+        "payment": {
+          "title": "Payment type",
+          "options": [
+            {
+              "value": "monthly",
+              "label": "Monthly"
+            },
+            {
+              "value": "annual",
+              "label": "Annual"
+            }
+          ]
+        }
+      },
+      "navigation": {
+        "back": "Back",
+        "next": "Next",
+        "verify": "Verify"
+      },
+      "summary": {
+        "title": "Order Summary",
+        "fields": {
+          "postalCode": "Postal code",
+          "frequency": "Frequency",
+          "containers": "Number of containers",
+          "paymentType": "Payment type",
+          "price": "Price"
+        },
+        "confirmButton": "Confirm Order"
+      }
+    }
+  }
+}
